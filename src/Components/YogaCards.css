@@ -1,0 +1,55 @@
+.Background{
+background-color: rgb(59, 218, 218);
+}
+.YogaPoss{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2px;
+    width: 400px;
+    height: 300px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid rgb(241, 237, 237);
+    border-radius: 250px;
+    background-color: rgb(241, 237, 237);
+}
+.NameofPose{
+    font-size: 15px;
+    
+}
+.text{
+
+    font-size: 10px;
+}
+.YogaInfo{
+    text-align: center;
+}
+.YogaImg{
+    width: 100px;
+    height:120x;
+    display:block;
+   margin-left: auto;
+   margin-right: auto;
+  
+}
+.button{
+    text-decoration: none;
+    color: black;
+    border: 2px solid black;
+    font-size: 12px;
+     margin-top:3px ;
+}
+
+.YogaPoss:hover{
+width: 405px;
+height: 305px;
+ box-shadow: 1px 1px 10px 10px #808080;
+}
+.button:hover{
+    background-color: black;
+    color: white;
+    
+    box-shadow: 8px 8px 5px 5px rgb(59, 218, 218);
+}
